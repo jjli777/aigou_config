@@ -12,7 +12,7 @@ eureka:
     prefer-ip-address: true #显示客户端真实ip
 ---
 server: 
-  port: 8002
+  port: 8011
 spring:
   profiles: test #测试环境
   application:
